@@ -1,0 +1,27 @@
+.hidden {
+    display: none;
+}
+
+.big-logo {
+    width: 70%;    
+    margin-bottom: 1em;
+}
+
+.medium-logo {
+    width: 50%;
+    margin-bottom: 1em;
+}
+
+.chef-image {
+    background-image: url('../img/chef.png');
+    width: 1027px;
+    height: 580px;
+}
+
+.chef-caption {
+    width: 50%;
+    text-align: left;
+    position: relative !important;
+    padding-top: 80px;
+    left: 0px;
+}
